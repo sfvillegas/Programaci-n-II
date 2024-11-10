@@ -1,0 +1,21 @@
+1. Crear una lista que contenga nombres de provincias Argentinas,
+que contenga más de 5 elementos e imprimir por pantalla
+
+2. Imprimir por pantalla el tercer elemento de la lista
+
+3. Imprimir por pantalla del segundo al cuarto elemento
+
+4. Mostrar el tipo de dato de la lista
+
+5. Mostrar los primeros 4 elementos de la lista
+
+6. Agregar una provincia más a la lista que ya exista y otra que no.
+
+7. Agregar una provincia, pero en la cuarta posición.
+
+8. Extender otra lista a la ya creada.
+
+9. Eliminar un elemento de la lista.
+
+10.Extraer el último elemento de la lista, guardarlo en una variable
+e imprimirlo.
